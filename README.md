@@ -1,6 +1,3 @@
-<p align="center"> 
-    <img src="images/masterportfolio-banner-light.png" align="center" height="150"></img>
-</p>
 
 <h1 align="center">Hrutvik's Software Developer Portfolio 🔥</h1> 
 <h3 align="center">This is a personal portfolio to showcase my skills and experiences.</h3>
